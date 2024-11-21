@@ -1,0 +1,21 @@
+/** @format */
+
+header {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  padding: 3rem 1rem;
+}
+
+header h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.card-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
